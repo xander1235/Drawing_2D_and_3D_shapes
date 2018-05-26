@@ -1,0 +1,104 @@
+
+C:\windows\system32>D:
+
+D:\uploadedFiles\b9c6b192e32ae0e07cceadca4ed0d244-c814d5589b499f17>cd D:\uploadedFiles\13413a3fcff9de896575bc996dfada3-707e3faf22caab\ 
+
+D:\uploadedFiles\13413a3fcff9de896575bc996dfada3-707e3faf22caab>C:\ZamApps\ConversionTools\IZArc\izarce -e "D:\uploadedFiles\13413a3fcff9de896575bc996dfada3-707e3faf22caab\p1b2aberer10r5esd137j1bme17gk4.rar" 
+IZArc Command Line Extraction Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+
+Archive File: p1b2aberer10r5esd137j1bme17gk4.rar
+
+  extracting: Use_Case_Diagram.mdj                                OK
+  extracting: Class_Daigram.mdj                                   OK
+  extracting: crc.mdj                                             OK
+  extracting: OOMProject.pptx                                     OK
+  extracting: MPQ10.doc                                           OK
+  extracting: .classpath                                          OK
+  extracting: .project                                            OK
+  extracting: org.eclipse.jdt.core.prefs                          OK
+  extracting: Circle$1.class                                      OK
+  extracting: Circle$2.class                                      OK
+  extracting: Circle$3.class                                      OK
+  extracting: Circle$4.class                                      OK
+  extracting: Circle$5.class                                      OK
+  extracting: Circle$6.class                                      OK
+  extracting: Circle.class                                        OK
+  extracting: ConeShape.class                                     OK
+  extracting: Cube.class                                          OK
+  extracting: Cuboid.class                                        OK
+  extracting: CylinderShape.class                                 OK
+  extracting: DrawArea$1.class                                    OK
+  extracting: DrawArea$2.class                                    OK
+  extracting: DrawArea.class                                      OK
+  extracting: Ellipse$1.class                                     OK
+  extracting: Ellipse$2.class                                     OK
+  extracting: Ellipse$3.class                                     OK
+  extracting: Ellipse$4.class                                     OK
+  extracting: Ellipse$5.class                                     OK
+  extracting: Ellipse$6.class                                     OK
+  extracting: Ellipse.class                                       OK
+  extracting: Paint2D$1.class                                     OK
+  extracting: Paint2D.class                                       OK
+  extracting: Rectangle$1.class                                   OK
+  extracting: Rectangle$2.class                                   OK
+  extracting: Rectangle$3.class                                   OK
+  extracting: Rectangle$4.class                                   OK
+  extracting: Rectangle$5.class                                   OK
+  extracting: Rectangle$6.class                                   OK
+  extracting: Rectangle.class                                     OK
+  extracting: Selection$1.class                                   OK
+  extracting: Selection$2.class                                   OK
+  extracting: Selection.class                                     OK
+  extracting: SphereShape.class                                   OK
+  extracting: Star$1.class                                        OK
+  extracting: Star$2.class                                        OK
+  extracting: Star$3.class                                        OK
+  extracting: Star$4.class                                        OK
+  extracting: Star.class                                          OK
+  extracting: StarTwo.class                                       OK
+  extracting: ThreeDShapes$1.class                                OK
+  extracting: ThreeDShapes$2.class                                OK
+  extracting: ThreeDShapes.class                                  OK
+  extracting: Triangle$1.class                                    OK
+  extracting: Triangle$2.class                                    OK
+  extracting: Triangle$3.class                                    OK
+  extracting: Triangle$4.class                                    OK
+  extracting: Triangle$5.class                                    OK
+  extracting: Triangle$6.class                                    OK
+  extracting: Triangle.class                                      OK
+  extracting: TwoDShapes$1.class                                  OK
+  extracting: TwoDShapes$2.class                                  OK
+  extracting: TwoDShapes$3.class                                  OK
+  extracting: TwoDShapes$4.class                                  OK
+  extracting: TwoDShapes$5.class                                  OK
+  extracting: TwoDShapes.class                                    OK
+  extracting: Circle.java                                         OK
+  extracting: ConeShape.java                                      OK
+  extracting: Cube.java                                           OK
+  extracting: Cuboid.java                                         OK
+  extracting: CylinderShape.java                                  OK
+  extracting: DrawArea.java                                       OK
+  extracting: Ellipse.java                                        OK
+  extracting: Paint2D.java                                        OK
+  extracting: Rectangle.java                                      OK
+  extracting: Selection.java                                      OK
+  extracting: SphereShape.java                                    OK
+  extracting: Star.java                                           OK
+  extracting: StarTwo.java                                        OK
+  extracting: ThreeDShapes.java                                   OK
+  extracting: Triangle.java                                       OK
+  extracting: TwoDShapes.java                                     OK
+
+D:\uploadedFiles\13413a3fcff9de896575bc996dfada3-707e3faf22caab>C:\ZamApps\ConversionTools\IZArc\izarcc -a "D:\uploadedFiles\13413a3fcff9de896575bc996dfada3-707e3faf22caab\p1b2aberer10r5esd137j1bme17gk4.zip" "*.*" 
+IZArc Command Line Compression Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+Archive File: p1b2aberer10r5esd137j1bme17gk4.zip
+
+   adding: .classpath                                          OK
+   adding: .project                                            OK
+   adding: batchresult.zamzarlog  
